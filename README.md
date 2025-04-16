@@ -3,8 +3,9 @@ In these codes we will package a model in an API using postman.
 # Introduction
 Model packaging is an essential step in the Machine Learning deployment process, where the trained model is prepared in a format that can be easily deployed and integrated into production environments. Packaging Machine Learning models involves saving it and wrapping it with an API. Here’s the process of packaging a Machine Learning model:
 
-Step 1: Export/Save the Trained Model
-Step 2: Writing a Wrapper Function to Load the Model
+Step 1: Export/Save the Trained Model.
+<br>
+Step 2: Writing a Wrapper Function to Load the Model.
 Step 3: Setting Up an API to Serve the Model
 # Features
 Iris Dataset
